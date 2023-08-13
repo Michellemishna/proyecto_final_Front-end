@@ -1,0 +1,53 @@
+.fondo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 700px;
+}
+h1 {
+  padding: 2.5%;
+}
+.cartasContainer {
+  height: 400px;
+  width: 65%;
+  display: flex;
+  justify-content: space-between;
+  /* Ajusta los estilos según el diseño que desees para las cartas */
+}
+
+.carta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 225px;
+  /* Ajusta los estilos según el diseño que desees para cada carta */
+}
+
+.imagen {
+  width: 100%;
+  /* Ajusta los estilos para el tamaño de la imagen */
+}
+
+.nombre {
+  font-weight: bold;
+  /* Ajusta los estilos para el nombre en negrita */
+}
+
+.tipo {
+  /* Estilos para el texto "Full Stack" en regular */
+}
+
+.iconos {
+  display: flex;
+  justify-content: space-between;
+  /* Ajusta los estilos para los iconos si es necesario */
+}
+
+.iconoLinkedin,
+.iconoGithub {
+  font-size: 20px;
+  /* Ajusta los estilos para el tamaño de los iconos */
+}

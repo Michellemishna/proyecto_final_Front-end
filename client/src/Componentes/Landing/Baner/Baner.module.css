@@ -1,0 +1,15 @@
+.fondo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+}
+.baner {
+  background-image: url("https://media.licdn.com/dms/image/D4D16AQE9Ud0l7zITmw/profile-displaybackgroundimage-shrink_200_800/0/1676312403347?e=2147483647&v=beta&t=Zn14z9UWZaMwC5NBDIdBzMw8-0fvHs5n7RfQ8Ka0vo4");
+  background-position: center;
+  background-size: cover;
+  color: aliceblue;
+  height: 250px;
+  width: 1200px;
+  background-color: rgb(0, 0, 0);
+}

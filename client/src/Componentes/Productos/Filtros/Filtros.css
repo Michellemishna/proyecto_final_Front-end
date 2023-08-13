@@ -1,0 +1,61 @@
+/* Estilos para el contenedor principal
+.custom-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+  width:230px;
+}
+
+/* Estilos para los elementos del grid */
+/* .custom-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+} */
+
+/* Estilos para los elementos de cada columna en el grid */
+/* .custom-column {
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  padding: 1rem;
+} */
+
+/* Estilos para las etiquetas de los inputs */
+/* .custom-label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+} */
+
+/* Estilos para los inputs y select */
+/* .custom-input {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+}
+
+.custom-input-p{
+  width:230px;
+} */
+
+/* Estilos para los botones */
+/* .custom-button {
+  background-color: #3490dc;
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 0.2rem;
+  cursor: pointer;
+  margin-right: .5em;
+} */
+
+/* .custom-button:hover {
+  background-color: #2779bd;
+} */
+
+/* .ml-4{
+  background-color: #34dc8b;
+}
+.ml-4:hover {
+  background-color: #27bd68;
+} */ 

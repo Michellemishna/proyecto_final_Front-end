@@ -1,0 +1,90 @@
+.fondo {
+  height: 120px;
+}
+.caja1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+}
+.caja2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(54, 54, 54);
+  height: 50px;
+}
+.search {
+  display: flex;
+  height: 100%;
+  width: 62%;
+}
+.option {
+  display: flex;
+  height: 100%;
+  width: 62%;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 20%;
+}
+.img {
+  width: 65px;
+}
+.buscador {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+}
+.carrito {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  background-color: rgb(132, 0, 255);
+  width: 20%;
+  height: 50px;
+  margin-top: 12px;
+}
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20%;
+}
+.home p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(132, 0, 255);
+  color: aliceblue;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.botones {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: aliceblue;
+  width: 60%;
+}
+.cuenta {
+  display: flex;
+  color: aliceblue;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  width: 20%;
+}
+.cuenta h4 {
+  color: rgb(255, 0, 85);
+}
+.registrar {
+  font-weight: bold;
+}

@@ -1,0 +1,43 @@
+/* Estilos para el contenedor de los botones de paginado */
+.homebtnpaginado {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 2em;
+}
+
+/* Estilos para los botones de paginado */
+.homebtnpaginado button {
+  padding: 0.5rem 1rem;
+  border: 1px solid #ccc;
+  background-color: white;
+  color: #333;
+  cursor: pointer;
+  border-radius: 0.25rem;
+}
+
+/* Estilos para el botón de página actual */
+.homebtnpaginado button.current-page {
+  background-color: #3490dc;
+  color: white;
+}
+
+/* Estilos para los botones de puntos suspensivos (elipsis) */
+.homebtnpoints {
+  border: none;
+  background-color: transparent;
+  cursor: default;
+}
+
+/* Estilos para el botón de "PREV" */
+.homebtnprev {
+  background-color: #3490dc;
+  color: white;
+}
+
+/* Estilos para el botón de "NEXT" */
+.homebtnnext {
+  background-color: #3490dc;
+  color: white;
+}

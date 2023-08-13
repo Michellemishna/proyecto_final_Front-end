@@ -1,0 +1,38 @@
+/* .fondo {
+  border: 0.1em solid rgb(132, 0, 255);
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 235px;
+  height: 400px;
+  background-color: rgb(255, 255, 255);
+  display: inline-block;
+}
+.imagen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 255px;
+  width: 200px;
+}
+.title {
+  width: 90%;
+  display: flex;
+  overflow: hidden;
+  height: 65px;
+  padding-left: 10px;
+  font-size: 15px;
+}
+.ellipsis {
+  margin-top: 42px;
+  margin-left: 191px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  width: 1em;
+  height: 1em;
+}
+.price {
+  color: rgb(255, 0, 85);
+} */

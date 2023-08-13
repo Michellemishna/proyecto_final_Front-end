@@ -1,0 +1,37 @@
+.paginado {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.antSig {
+  border: none;
+  padding: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+}
+.antSig2 {
+  padding: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+}
+
+.active {
+  background-color: rgb(
+    255,
+    0,
+    85
+  ); /* Ejemplo: Cambia el color de fondo al rojo */
+  color: #ffffff; /* Ejemplo: Cambia el color del texto a blanco */
+}
+.desactive {
+  background-color: white;
+}
+
+.pageButton {
+  padding: 15px;
+}

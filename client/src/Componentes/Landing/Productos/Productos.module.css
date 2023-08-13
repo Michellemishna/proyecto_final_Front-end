@@ -1,0 +1,25 @@
+.fondo {
+  margin-top: -42px;
+  margin-bottom: 1px;
+  
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 420px;
+}
+.caja1 {
+  display: flex;
+  justify-content: center;
+  width: 62%;
+}
+.producto {
+  border: 0.1em solid rgb(132, 0, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 235px;
+  height: 400px;
+  background-color: rgb(255, 255, 255);
+}

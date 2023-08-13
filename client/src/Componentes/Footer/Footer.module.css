@@ -1,0 +1,35 @@
+.fondo {
+  background-color: rgb(124, 124, 124);
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  color: aliceblue;
+}
+.caja2 {
+  height: 55px;
+  display: flex;
+  background-color: rgb(54, 54, 54);
+}
+.siguenos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 50%;
+  color: aliceblue;
+}
+.siguenos p {
+  padding: 10px;
+  margin-left: 20px;
+  background-color: rgb(0, 0, 0);
+}
+.grupo {
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}

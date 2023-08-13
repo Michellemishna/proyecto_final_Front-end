@@ -1,0 +1,52 @@
+.sbcontainer{
+  position: absolute;
+  top:-30px;
+  left: 50%; 
+  transform: translateX(-50%);
+  width: 450px;
+  height: 30px;
+  border: 2px solid red;
+}
+
+
+.formsb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px; /* Ajusta el margen superior según tus preferencias */
+  }
+  
+  .inputsb {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: 2px solid #8400ff;
+    max-width: 100%;
+    border-right: none;
+    border:2px solid #9f38ff;
+    background-color: white;
+    width: 100%;
+  }
+
+
+  form, input, button {
+    all: unset;
+  }
+  
+  
+  .buttonsb {
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #8400ff !important;
+    color: white;
+    cursor: pointer;
+    z-index: 2;
+    margin-left: -2px;
+    border:1px solid #8400ff ;
+ }
+  
+ 
+  
+  .imgsb{
+    width: 34px;
+  }
+
